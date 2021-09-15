@@ -1,10 +1,9 @@
-微信支付 Java SDK
-------
-
 > This version based on 3.0.9 with a bit of modification.
->
+> 
 > New beta version: https://github.com/wechatpay-apiv3/wechatpay-apache-httpclient.git
 
+微信支付 Java SDK
+------
 
 对[微信支付开发者文档](https://pay.weixin.qq.com/wiki/doc/api/index.html)中给出的API进行了封装。
 
